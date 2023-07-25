@@ -1,5 +1,6 @@
+
 <template>
-  <div>
-    <NuxtWelcome />
+  <div class="font-fluxiv font-regular antialiased">
+    <LandPage />
   </div>
 </template>
