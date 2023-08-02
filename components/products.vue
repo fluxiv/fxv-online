@@ -1,7 +1,7 @@
 <template>
     <div class="relative z-10">
         <div class="w-full bg-grey flex flex-wrap justify-center pb-64">
-            <div class="xl:w-7/12 2xl:w-5/12  py-5 px-4">
+            <div class="sm:w-9/12 xl:w-7/12 2xl:w-6/12 3xl:w-5/12  py-5 px-4">
                 <div class="text-center">
                     <h2 class="text-4xl font-bold text-blue-dark pb-4">Fluxiv OS</h2>
                     <img class="w-full mb-3" src="/assets/products/fluxivOS.png" alt="">
@@ -40,7 +40,19 @@ export default {
         //margin-bottom: -26.75rem;
     }
     .coop-divider{
-        top: -16.25rem;
-        margin-bottom: -26.25rem;
+        top: -15rem;
+        margin-bottom: -16rem;
+        @media (min-width: 1024px){
+            top: -16.25rem;
+            margin-bottom: -26.25rem;
+        }
+        @media (min-width: 1500px){
+            top: -22.375rem;
+            margin-bottom: -35.5625rem;
+        }
+        @media (min-width:1921px){
+            top: -28.25rem;
+            margin-bottom: -48.25rem;
+        }
     }
 </style>

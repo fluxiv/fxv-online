@@ -9,7 +9,12 @@ export default {
         'green': '#41d06a',
         'red': '#ff0022',
         'yellow': '#ebad36',
-        'grey': '#D9D9D9',
+        'grey': {
+          '100': '#f2f2f2',
+          DEFAULT: '#d9d9d9',
+          '200': '#bfbfbf'
+        },
+        
         'white': '#ffffff'
       },
       fontFamily: {
@@ -17,8 +22,13 @@ export default {
       },
       extend: {
         screens: {
-          '3xl': '1920px',
+          '3xl': '1924px',
           '4xl': '2160px'
+        },
+        boxShadow: {
+          DEFAULT: '0px 0px 4px 0px rgba(0, 0, 0, 0.50)',
+          'md': '0px 0px 6px 0px rgba(0, 0, 0, 0.50)',
+          'lg': '0px 0px 8px 0px rgba(0, 0, 0, 0.50)'
         }
       }
     }

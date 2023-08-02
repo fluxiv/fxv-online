@@ -1,6 +1,6 @@
 
 <template>
   <div class="font-fluxiv font-regular antialiased">
-    <LandPage />
+    <NuxtPage />
   </div>
 </template>
