@@ -1,6 +1,6 @@
 <template>
     <div class="relative">
-        <div class="w-full flex flex-wrap justify-center relative pt-40 xl:pt-0 z-10">
+        <div class="w-full flex flex-wrap justify-center relative pt-40 xl:pt-12 z-10">
             <div class=" w-11/12 sm:w-9/12 xl:w-9/12 2xl:w-6/12 3xl:w-5/12 px-4">
                 <div class="flex flex-wrap flex-col items-center lg:items-stretch lg:flex-row lg:justify-between mb-20">
                     <div class="text-left lg:w-6/12">

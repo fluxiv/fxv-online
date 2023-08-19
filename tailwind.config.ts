@@ -15,7 +15,8 @@ export default {
           '200': '#bfbfbf'
         },
         
-        'white': '#ffffff'
+        'white': '#ffffff',
+        'black': '#242424'
       },
       fontFamily: {
         'fluxiv': ['"Heebo"', 'ui-sans-serif','system-ui'],
