@@ -3,7 +3,9 @@
         <div class="w-1/4 hidden lg:flex items-center">
           <img class="w-8" src="/assets/flags/brazil.svg" alt="">  
         </div>
-        <div class="w-full lg:w-1/2 flex justify-center items-center">
+        
+        <div class="w-full lg:w-1/2 xl:flex grid grid-cols-3 xl:justify-center items-center">
+            <MenuMobile />
             <NuxtLink to="/">
                 <img src="/assets/fluxiv.svg" class="h-8 cursor-pointer ease-in-out duration-150 hover:scale-105" alt="Fluxiv logo">
             </NuxtLink>

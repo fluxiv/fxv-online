@@ -116,7 +116,7 @@
         top: -2rem;
         @media (min-width: 1024px){
             top: -12rem;
-            margin-bottom: -20rem;
+            margin-bottom: -12rem;
         }
 
     }
