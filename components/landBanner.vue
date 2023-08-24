@@ -15,7 +15,7 @@
                 </div>
             </section>
         </div>
-        <div class="mobile-divider divider relative">
+        <div class=" hidden xl:block mobile-divider divider relative">
             <img class="w-screen" src="/assets/divider/mainDivider.svg" alt="Divisor entre o banner principal e o conteúdo sobre liberdade digital. O divisor é uma linha horizontal que simboliza a separação entre as seções do conteúdo. Ele representa a transição do banner para o conteúdo sobre liberdade digital, marcando o início de uma nova seção do site. O divisor é uma representação visual da mudança de contexto e tema, sinalizando aos leitores que estão passando de uma parte para outra do site.">
         </div>
     </div>

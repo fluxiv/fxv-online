@@ -7,7 +7,7 @@
                     <p><span class="font-bold">Junte-se a nós na construção do Fluxiv:</span> crie conosco como voluntário ou faça uma doação e ajude a transformar a internet em um espaço mais livre e inclusivo!</p>
                 </div>
             </div>
-            <div class="flex flex-wrap justify-center pt-12">
+            <div id="help" class="flex flex-wrap justify-center pt-12">
                 <div class="w-11/12 sm:w-9/12 xl:w-9/12 2xl:w-6/12 3xl:w-5/12 grid grid-cols-1 lg:grid-cols-2 lg:gap-16 gap-8 items-stretch">
 
                     <div class="shadow bg-white shadow-black rounded-lg flex justify-center text-blue-dark py-8 px-8 lg:px-16">

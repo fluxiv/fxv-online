@@ -1,4 +1,4 @@
-<script lang="ts">
+<script setup lang="ts">
     useSeoMeta({
         title: "Quem Somos - Fluxiv | Uma Comunidade Construída com Valores de Horizontalidade, Pluralidade e Inclusão",
         ogTitle: "Conheça o Fluxiv - Um Projeto Construído por Todos com Valores de Horizontalidade e Pluralidade",
