@@ -4,7 +4,7 @@
             <div class="sm:w-9/12 xl:w-7/12 2xl:w-6/12 3xl:w-5/12  py-5 px-4">
                 <div class="text-center">
                     <h2 class="text-4xl font-bold text-blue-dark pb-4">Fluxiv OS</h2>
-                    <img class="w-full mb-3" src="/assets/products/fluxivOS.png" alt="">
+                    <img class="w-full mb-3" src="/assets/products/OSFluxiv.png" alt="">
                     <p class="pt-3">O Fluxiv OS é como um sistema operacional para o computador, mas com uma diferença especial. Ele é feito pensando nas pessoas, para que todos possam ter uma experiência digital personalizada e livre. Com o Fluxiv OS, você tem o poder de escolher como quer usar o seu computador, sem depender das grandes empresas. É como ter um mundo digital feito sob medida para você, onde a liberdade e a autonomia são prioridades.</p>
                 </div>
                 <div class="text-center mt-16">
