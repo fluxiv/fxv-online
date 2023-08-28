@@ -1,5 +1,5 @@
 <template>
-        <header class="p-4 bg-blue-dark w-full flex flex-wrap  text-grey border-b-4 border-grey">
+        <header class="p-4 bg-blue-dark w-full flex flex-wrap  text-grey">
         <div class="w-1/4 hidden lg:flex items-center">
           <img class="w-8" src="/assets/flags/brazil.svg" alt="">  
         </div>
