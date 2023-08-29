@@ -3,6 +3,7 @@
         title: "Quem Somos - Fluxiv | Uma Comunidade Construída com Valores de Horizontalidade, Pluralidade e Inclusão",
         ogTitle: "Conheça o Fluxiv - Um Projeto Construído por Todos com Valores de Horizontalidade e Pluralidade",
         ogDescription: "Saiba mais sobre o Fluxiv - uma comunidade comprometida com a horizontalidade, pluralidade e inclusão. Junte-se a nós na construção de um ecossistema digital mais justo e colaborativo.",
+        description: "Saiba mais sobre o Fluxiv - uma comunidade comprometida com a horizontalidade, pluralidade e inclusão. Junte-se a nós na construção de um ecossistema digital mais justo e colaborativo.",
     });
 </script>
 <template>

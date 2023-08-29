@@ -27,12 +27,14 @@ import Textos from '../../assets/texts/texts.json'
         title: textParams?.seoTitle,
         ogTitle: textParams?.seoOgTitle,
         ogDescription: textParams?.seoDesc,
+        description: textParams?.seoDesc,
     });
     } else {
         useSeoMeta({
         title: "A linha teórica do fluxiv - Artigo completo",
         ogTitle: "Conheça nossa linha teórica, reflexões, pensamentos e modo de organização",
         ogDescription: "Conheça nossa linha teórica, reflexões, pensamentos e modo de organização",
+        description: "Conheça nossa linha teórica, reflexões, pensamentos e modo de organização",
     });
     }
 

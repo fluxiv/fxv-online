@@ -39,6 +39,7 @@
     const textos = Textos
     useSeoMeta({
       title: "Todos os Textos do Fluxiv - Leia e Explore",
+      description: "Navegue por uma coleção de textos do Fluxiv que discutem vários tópicos relacionados à liberdade, colaboração e muito mais.",
       ogTitle: "Explore Todos os Textos do Fluxiv para Reflexão e Insight",
       ogDescription: "Navegue por uma coleção de textos do Fluxiv que discutem vários tópicos relacionados à liberdade, colaboração e muito mais.",
     });
