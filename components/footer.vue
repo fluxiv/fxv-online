@@ -4,7 +4,7 @@
             <div class="pb-16 pt-32 flex flex-wrap flex-col lg:flex-row lg:justify-between lg:items-center">
                 <div>
                     <img class="mb-8 lg:w-56 w-40" src="/assets/fluxivWhite.svg" alt="">
-                    <p class="text-white text-lg my-4">fluxiv@protonmail.com</p>
+                    <p class="text-white text-lg my-4">contato@fluxiv.com.br</p>
                     <p class="text-white text-lg my-4">+55 11 91560-9689</p>
                 </div>
                 <div class="text-left pt-8 lg:pt-0 lg:text-right lg:w-6/12 text-white">
