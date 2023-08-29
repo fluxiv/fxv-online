@@ -20,7 +20,10 @@
                         </small>
                     </div>
                     <img class="w-full mb-3" src="/assets/products/fluxivSpace.png" alt="">
-                    <p class="pt-3">O aplicativo de design em desenvolvimento do Fluxiv é uma empolgante iniciativa que está sendo construída para oferecer uma experiência incrível de criação visual. Com recursos intuitivos e uma interface amigável, ele permitirá que usuários de todos os níveis criem designs personalizados e expressivos. Embora ainda esteja em produção, estamos animados com a perspectiva de lançar em breve uma ferramenta que vai revolucionar a forma como as pessoas criam no mundo digital.</p>
+                    <p class="pt-3">Uma rede social voltada para o Código aberto, os produtos do Fluxiv e a interação da comunidade, será a forma onde o projeto conversará, debaterá e incluirá seus usuários nas decisões do projeto, tais como novos produtos e funcionalidades.
+
+Posteriormente a Rede social visará criar novos projetos por meio de sua comunidade, o Fluxiv fomentará e auxiliará seus usuários na elaboração, criação e manutenção de novos projetos que visem a liberdade digital!
+</p>
                 </div>
             </div>
         </div>

@@ -17,7 +17,7 @@
                     </div>
                     <div class="text-left lg:w-1/2">
                         <h2 class="text-blue font-bold text-2xl">A Liberdade digital</h2>
-                        <p>Na internet atual, não somos totalmente livres porque grandes empresas controlam nossos dados e limitam nossas opções. Somos forçados a usar plataformas específicas e não temos o poder de escolher como queremos navegar. O Fluxiv busca mudar isso, promovendo uma internet popular e livre, onde cada pessoa tenha autonomia para decidir e moldar sua própria experiência digital.</p>
+                        <p>A liberdade digital é como abrir as portas da internet, onde podemos escolher livremente o que fazer, como nos expressar e quais serviços utilizar. O Fluxiv quer tornar a internet popular, onde todos tenham voz e possam personalizar sua experiência online. É uma nova era digital, onde a diversidade de opções e a liberdade de escolha são prioridades, colocando o poder de decisão nas mãos dos usuários.</p>
                     </div>
                 </div>
             </div>
