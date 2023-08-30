@@ -19,7 +19,7 @@
             <div class="w-11/12 sm:w-9/12 xl:w-9/12 2xl:w-6/12 3xl:w-5/12 grid gap-8 grid-cols-1 xl:grid-cols-2 py-4 text-blue-dark">
                 <div class="shadow shadow-grey px-16 py-8 rounded-lg text-center" v-for="text in textos">
                     <div class="flex justify-center">
-                        <img class="h-24 mb-8" :src="'/assets/texts/text/'+text.url+'.svg'" alt="">
+                        <img class="h-24 mb-8" :src="'/assets/texts/text/'+text.url+'.svg'" :alt="text.title">
                     </div>
                     
                     <h3 class=" font-bold text-blue text-2xl">{{text.title }}</h3>

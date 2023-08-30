@@ -3,7 +3,7 @@
         <div class="w-11/12 sm:w-9/12 xl:w-9/12 2xl:w-6/12 3xl:w-5/12 px-4">
             <div class="pb-16 pt-32 flex flex-wrap flex-col lg:flex-row lg:justify-between lg:items-center">
                 <div>
-                    <img class="mb-8 lg:w-56 w-40" src="/assets/fluxivWhite.svg" alt="">
+                    <img class="mb-8 lg:w-56 w-40" src="/assets/fluxivWhite.svg" alt="Logo do Fluxiv">
                     <p class="text-white text-lg my-4">contato@fluxiv.com.br</p>
                     <p class="text-white text-lg my-4">+55 11 91560-9689</p>
                 </div>

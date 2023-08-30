@@ -1,7 +1,7 @@
 <template>
         <header class="p-4 bg-blue-dark w-full flex flex-wrap  text-grey">
         <div class="w-1/4 hidden lg:flex items-center">
-          <img class="w-8" src="/assets/flags/brazil.svg" alt="">  
+          <img class="w-8" src="/assets/flags/brazil.svg" alt="Bandeira do Brasil">  
         </div>
         
         <div class="w-full lg:w-1/2 xl:flex grid grid-cols-3 xl:justify-center items-center">

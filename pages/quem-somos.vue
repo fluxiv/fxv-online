@@ -26,7 +26,7 @@
                 </div>
             </div>
             <div class="first-div relative">
-                <img src="/assets/about/aboutDividerBot.svg" alt="">
+                <img src="/assets/about/aboutDividerBot.svg" alt="divisor de tela">
             </div>
         </div>
         <div class="relative">
@@ -47,7 +47,7 @@
         </div>
         <div class="relative">
             <div class="top-div relative">
-                <img src="/assets/about/aboutDividerGreyTop.svg" alt="">
+                <img src="/assets/about/aboutDividerGreyTop.svg" alt="divisor de tela">
             </div>
             <div class="w-full bg-grey text-black flex flex-wrap justify-center relative xl:pt-12 z-10">
                 <div class=" w-11/12 sm:w-9/12 xl:w-9/12 2xl:w-6/12 3xl:w-5/12 px-4 pb-16 pt-12">
@@ -64,12 +64,12 @@
                 </div>
             </div>
             <div class="second-div relative none xl:block w-full">
-                <img src="/assets/about/aboutDividerGreyBot.svg" alt="">
+                <img src="/assets/about/aboutDividerGreyBot.svg" alt="divisor de tela">
             </div>
         </div>
         <div class="relative z-20">
             <div class="second-top-div relative">
-                <img src="/assets/about/aboutDividerTop.svg" alt="">
+                <img src="/assets/about/aboutDividerTop.svg" alt="divisor de tela">
             </div>
             <div class="w-full bg-blue-dark text-white flex flex-wrap justify-center relative pt-8 xl:pt-12 z-10">
                 <div class="w-11/12 sm:w-9/12 xl:w-9/12 2xl:w-6/12 3xl:w-5/12 py-8 px-4">
@@ -83,7 +83,7 @@
                 </div>
             </div>
             <div class="second-bot-div relative">
-                <img src="/assets/about/aboutDividerBot.svg" alt="">
+                <img src="/assets/about/aboutDividerBot.svg" alt="divisor de tela">
             </div>
         </div>
         <div class="relative bottom-[2rem] mb-[-16rem] z-20">

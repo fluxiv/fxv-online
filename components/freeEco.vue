@@ -8,13 +8,13 @@
                         <p>O ecossistema da liberdade do Fluxiv é um conjunto de soluções digitais que oferecem alternativas às grandes corporações. Com base no código aberto filosófico, busca-se reduzir a dependência dos usuários e criar um ambiente mais livre e inclusivo. As soluções são interligadas e trabalham juntas para oferecer uma experiência digital mais eficiente e personalizada. O Fluxiv busca ocupar espaços nas plataformas existentes, mesmo que não respeitem totalmente a liberdade digital, para proporcionar uma nova forma de vivenciar a internet.</p>
                     </div>
                     <div class="w-full lg:w-1/3 pt-16 lg:pt-0">
-                        <img src="/assets/freeEcosystem.svg" alt="">
+                        <img src="/assets/freeEcosystem.svg" alt="Ilustração que representa o ecossistema da liberdade">
                     </div>
                 </div>
             </div>
         </div>
         <div class="relative help-divider">
-            <img src="/assets/divider/helpDivider.svg" alt="">
+            <img src="/assets/divider/helpDivider.svg" alt="divisor de tela">
         </div>
     </div>
 </template>

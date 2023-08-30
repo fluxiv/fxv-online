@@ -9,14 +9,14 @@
                         <p>No Fluxiv, a cooperação é a chave para construir um ambiente digital melhor. Como uma cooperativa, valorizamos a união e o trabalho em equipe. Através da cooperação, criamos um ecossistema de liberdade, onde diferentes soluções se conectam e se fortalecem. Juntos, colaboramos para garantir que cada pessoa tenha voz e contribua para moldar a internet de forma justa e inclusiva.</p>
                     </div>
                     <div class="w-full lg:w-1/3 pt-16 lg:pt-0">
-                        <img src="/assets/cooperation.svg" alt="">
+                        <img src="/assets/cooperation.svg" alt="Ilustração que representa a cooperação entre fluxiv e demais projetos">
                     </div>
                 </div>
 
 
                 <div class="flex flex-wrap flex-col-reverse lg:flex-row items-center lg:items-stretch lg:justify-between mb-20 relative z-30">
                     <div class="w-full lg:w-1/3 pt-16 lg:pt-0">
-                        <img src="/assets/phyloOpenSource.svg" alt="">
+                        <img src="/assets/phyloOpenSource.svg" alt="Ilustração que representa o código aberto filosófico">
                     </div>
                     <div class="text-left lg:w-6/12">
                         <h2 class="text-blue font-bold text-2xl">Código Aberto Filosófico</h2>
@@ -28,7 +28,7 @@
             </div>
         </div>
         <div class="eco-divider relative">
-            <img src="/assets/divider/freeEcoDivider.svg" alt="">
+            <img src="/assets/divider/freeEcoDivider.svg" alt="divisor para o ecossistema da liberdade do fluxiv">
         </div>
     </div>
 </template>

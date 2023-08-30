@@ -24,7 +24,7 @@
         
         </div>
         <div class="divider-two relative">
-            <img src="/assets/divider/freedomDivider.svg" alt="">
+            <img src="/assets/divider/freedomDivider.svg" alt="divisor de tela">
         </div>
     </div>
 
