@@ -30,7 +30,9 @@
                             <p class="text-center pb-8">Junte-se a nós e faça parte da equipe Fluxiv! Estamos construindo um ciberespaço mais livre e justo, e contamos com sua ajuda. Se você é entusiasta de código aberto e quer contribuir com seu talento e criatividade, venha participar no desenvolvimento do Fluxiv. Vamos trabalhar juntos para criar um futuro digital mais brilhante!</p>
                             </div>
                             <div>
-                                <button class="bg-blue ease-in-out duration-300 hover:drop-shadow hover:shadow py-2 px-8 text-xl text-white rounded-ee-md rounded-es rounded-tl-md rounded-tr cursor-pointer font-bold">Junte-se a nós</button>
+                                <a href="https://forms.gle/cPycMQrC9aKtEa2g9" target="_blank">
+                                    <button class="bg-blue ease-in-out duration-300 hover:drop-shadow hover:shadow py-2 px-8 text-xl text-white rounded-ee-md rounded-es rounded-tl-md rounded-tr cursor-pointer font-bold">Junte-se a nós</button>
+                                </a>
                                 <small class="block text-sm pt-2">*abrirá um formulário Google</small>
                             </div>
                             

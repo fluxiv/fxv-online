@@ -16,7 +16,7 @@
                     <h2 class="text-4xl font-bold text-blue-dark pb-2">Rede Social</h2>
                     <div class="text-right">
                         <small class="text-xs">
-                            <span class="text-green font-semibold">Status:</span> Em desenvolvimento; acompanhe: https://fxv.com
+                            <span class="text-green font-semibold">Status:</span> Em desenvolvimento; acompanhe: <a href="https://github.com/fluxiv/fxv_ide" target="_blank">https://github.com/fluxiv/fxv_ide</a>
                         </small>
                     </div>
                     <img class="w-full mb-3" src="/assets/products/fluxivSpace.png" alt="Proposta de design da rede social do Fluxiv">
